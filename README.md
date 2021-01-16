@@ -26,6 +26,6 @@ $ruby bingo.rb
 $ start
 
 
-
+please try it!!
 
 
